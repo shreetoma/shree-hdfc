@@ -1,0 +1,54 @@
+body{
+    
+}
+.header{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.netbanking{
+       color: rgb(140,72,135);
+    font-family: monospace;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+.well-modified{
+    background-color: white;
+    border-radius:0px;
+}
+.label-modified{
+    color:black;
+    font-size: 14px;
+    font-weight: 50;
+    margin-top: 3px;
+}
+.input-type{
+    margin-top: 5px;
+}
+a:hover{
+    text-decoration: none;
+}
+.virtual{
+    font-size:13px;
+}
+.log-in-image{
+    margin-left: 10px;
+    margin-top: 2px;
+}
+.valley{
+        margin-top: 25px;
+    width: 70%;
+    text-align: center;
+}
+.log-in{
+        margin-right: 20px;
+    width: 35%;
+    background-color: rgb(8,60,118);
+    border-radius: 6px;
+    height: 30px;
+}
+.line-text{
+    font-size: 15px;
+    padding-left: 50px;
+    margin-bottom: 0px;
+}
